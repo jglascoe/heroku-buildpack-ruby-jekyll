@@ -71,3 +71,6 @@ See Also
 
 The blog post introducing this buildpack: [http://mwmanning.com/2011/11/29/Run-Your-Jekyll-Site-On-Heroku.html](http://mwmanning.com/2011/11/29/Run-Your-Jekyll-Site-On-Heroku.html).
 
+=======
+heroku-buildpack-ruby-jekyll
+============================
